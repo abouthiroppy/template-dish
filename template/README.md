@@ -20,3 +20,5 @@ $ npm test
 ```
 $ npm run lint
 ```
+
+## Template
