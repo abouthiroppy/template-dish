@@ -1,6 +1,6 @@
 {
   "name": "@my-dish/template-dish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dish template for dish",
   "scripts": {
     "lint": "eslint .",
